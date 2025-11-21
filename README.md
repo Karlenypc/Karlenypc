@@ -13,8 +13,8 @@
 ## 🛠️ Tech & Tools
 
 - Data Analysis: Power BI, Excel, Power Query, DAX & ETL
-- Front-End: HTML, CSS, JavaScript
-- Programming: Java, Python (beginner)
+- Front-End: HTML, CSS
+- Programming: Java, Python, JavaScript
 - Databases: SQL (T-SQL), MySQL 
 - Networking fundamentals: CCNA Modules I – III
 - Version Control: Git & GitHub
