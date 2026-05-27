@@ -1,42 +1,72 @@
-# Hi, I’m Karleny 📌
+# Hi, I’m Karleny 👋
 
-🎓 Advance **Computer Systems Engineering Student** in the final year of my degree.
+🎓 Systems Engineer passionate about software development, SQL database solutions, and technical business-oriented systems.
 
-📊 Passionate about **Data Analysis** (SQL, Power BI, storytelling with data).
+💻 Experienced in developing business-oriented software solutions, relational database systems, and structured backend workflows using C#, .NET, SQL Server, Windows Forms, and JSON through real-world academic and enterprise projects. Particularly interested in database architecture, technical system design, backend logic implementation, and building scalable solutions that improve operational efficiency and user workflows.
 
-💻 Interested in **Front-End Development** (HTML, CSS, JavaScript).
+📊 Also skilled in Power BI, SQL analytics, dashboard development, and data visualization focused on transforming complex information into actionable business insights.
 
-🌱 Currently learning and building projects to strengthen my skills.
+🚀 Currently focused on strengthening my experience in enterprise software development, SQL-based systems, technical workflows, and data-driven solutions.
 
 ---
 
 ## 🛠️ Tech & Tools
 
-- Data Analysis: Power BI, Excel, Power Query, DAX & ETL
-- Front-End: HTML, CSS
-- Programming: Java, Python, JavaScript
-- Databases: SQL (T-SQL), MySQL 
-- Networking fundamentals: CCNA Modules I – III
-- Version Control: Git & GitHub
+### 💻 Software Development
+- C#
+- .NET 8
+- Windows Forms
+- JavaScript
+- HTML / CSS
+
+### 🗄️ Databases & SQL
+- SQL
+- T-SQL
+- SQL Server
+- MySQL
+- Relational Database Design
+
+### 📊 Data & BI
+- Power BI
+- DAX
+- Power Query
+- ETL
+- Python
+- Dashboard Design
+- Data Visualization
+
+### ⚙️ Tools & Other
+- Git & GitHub
+- Excel
+- JSON
+- Networking Fundamentals (CCNA I–III)
 
 ---
 
-## 🚀 Current Goals
+## ✨ Featured Projects
 
-1. Finish my degree and position myself in a company that allows me to grow and apply my acquired knowledge in a real world environment
-2. Build a stronger portfolio of data analysis dashboards and web applications
-3. Keep exploring front-end frameworks
-4. Sharpen my SQL & data analysis skills
+### 📅 PTO Calendar ERP Module
+Full-stack PTO management module developed for an internal ERP system using C#, .NET 8, Windows Forms, layered architecture, and nested JSON data handling.
+
+### 🗄️ SQL Database System for a Nonprofit Organization
+Complete relational database solution designed in SQL Server with Transact-SQL automation, normalization processes, and Microsoft Access integration for non-technical operational workflows.
+
+### 📈 Customer Churn & Revenue Risk Dashboard
+Interactive Power BI dashboard focused on customer churn analysis, revenue exposure, retention strategies, and business-oriented analytical storytelling.
 
 ---
 
-## 📫 Let’s Connect!
+# 📫 Let’s Connect!
 
-🌐 Portfolio: https://karlenypc.github.io/Portfolio/
+🌐 Portfolio  
+https://karlenypc.github.io/Portfolio/
 
-💼 LinkedIn: https://www.linkedin.com/in/karleny-perez99
+💼 LinkedIn  
+https://www.linkedin.com/in/karleny-perez99
 
-📧 Karlenypc99@gmail.com
+📧 Email  
+Karlenypc99@gmail.com
+
 
 <!--
 **Karlenypc/Karlenypc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
